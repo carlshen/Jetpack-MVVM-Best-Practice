@@ -22,11 +22,11 @@
 
         <variable
             name="click"
-            type="com.kunminx.puremusic.ui.page.MainFragment.ClickProxy" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.MainFragment.ClickProxy" />
 
         <variable
             name="vm"
-            type="com.kunminx.puremusic.ui.page.MainFragment.MainStates" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.MainFragment.MainStates" />
 
         <variable
             name="adapter"

@@ -1,10 +1,10 @@
 apply plugin: "com.android.application"
 
 android {
-    namespace "com.kunminx.puremusic"
+    namespace "com.cash.profin.ya.dinero.plata.credit"
     compileSdk appTargetSdk
     defaultConfig {
-        applicationId "com.kunminx.puremusic"
+        applicationId "com.cash.profin.ya.dinero.plata.credit"
         minSdk appMinSdk
         targetSdk appTargetSdk
         versionCode appVersionCode

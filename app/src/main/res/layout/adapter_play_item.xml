@@ -22,7 +22,7 @@
 
         <variable
             name="album"
-            type="com.kunminx.puremusic.data.bean.TestAlbum.TestMusic" />
+            type="com.cash.profin.ya.dinero.plata.credit.data.bean.TestAlbum.TestMusic" />
 
     </data>
 

@@ -21,11 +21,11 @@
 
         <variable
             name="click"
-            type="com.kunminx.puremusic.ui.page.SearchFragment.ClickProxy" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.SearchFragment.ClickProxy" />
 
         <variable
             name="vm"
-            type="com.kunminx.puremusic.ui.page.SearchFragment.SearchStates" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.SearchFragment.SearchStates" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

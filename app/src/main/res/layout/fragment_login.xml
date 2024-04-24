@@ -8,11 +8,11 @@
 
         <variable
             name="vm"
-            type="com.kunminx.puremusic.ui.page.LoginFragment.LoginStates" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.LoginFragment.LoginStates" />
 
         <variable
             name="click"
-            type="com.kunminx.puremusic.ui.page.LoginFragment.ClickProxy" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.LoginFragment.ClickProxy" />
 
     </data>
 

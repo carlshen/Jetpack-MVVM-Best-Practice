@@ -7,11 +7,11 @@
 
         <variable
             name="vm"
-            type="com.kunminx.puremusic.MainActivity.MainActivityStates" />
+            type="com.cash.profin.ya.dinero.plata.credit.MainActivity.MainActivityStates" />
 
         <variable
             name="listener"
-            type="com.kunminx.puremusic.MainActivity.ListenerHandler" />
+            type="com.cash.profin.ya.dinero.plata.credit.MainActivity.ListenerHandler" />
 
     </data>
 

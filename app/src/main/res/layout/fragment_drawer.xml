@@ -21,11 +21,11 @@
 
         <variable
             name="vm"
-            type="com.kunminx.puremusic.ui.page.DrawerFragment.DrawerStates" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.DrawerFragment.DrawerStates" />
 
         <variable
             name="click"
-            type="com.kunminx.puremusic.ui.page.DrawerFragment.ClickProxy" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.DrawerFragment.ClickProxy" />
 
         <variable
             name="adapter"

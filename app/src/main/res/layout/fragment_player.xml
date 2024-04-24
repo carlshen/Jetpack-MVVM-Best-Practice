@@ -23,19 +23,19 @@
 
         <variable
             name="click"
-            type="com.kunminx.puremusic.ui.page.PlayerFragment.ClickProxy" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.PlayerFragment.ClickProxy" />
 
         <variable
             name="listener"
-            type="com.kunminx.puremusic.ui.page.PlayerFragment.ListenerHandler" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.PlayerFragment.ListenerHandler" />
 
         <variable
             name="vm"
-            type="com.kunminx.puremusic.ui.page.PlayerFragment.PlayerStates" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.page.PlayerFragment.PlayerStates" />
 
         <variable
             name="panelVm"
-            type="com.kunminx.puremusic.ui.view.PlayerSlideListener.SlideAnimatorStates" />
+            type="com.cash.profin.ya.dinero.plata.credit.ui.view.PlayerSlideListener.SlideAnimatorStates" />
 
   </data>
 
@@ -170,7 +170,7 @@
                 app:materialIconColor="@android:color/black"
                 app:materialIconSize="28dp" />
 
-            <com.kunminx.puremusic.ui.view.PlayPauseView
+            <com.cash.profin.ya.dinero.plata.credit.ui.view.PlayPauseView
                 android:id="@+id/play_pause"
                 isPlaying="@{vm.isPlaying}"
                 onClickWithDebouncing="@{()->click.togglePlay()}"

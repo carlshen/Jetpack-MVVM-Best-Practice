@@ -22,7 +22,7 @@
 
     <fragment
         android:id="@+id/playerFragment"
-        android:name="com.kunminx.puremusic.ui.page.PlayerFragment"
+        android:name="com.cash.profin.ya.dinero.plata.credit.ui.page.PlayerFragment"
         android:label="fragment_player"
         tools:layout="@layout/fragment_player" />
 </navigation>

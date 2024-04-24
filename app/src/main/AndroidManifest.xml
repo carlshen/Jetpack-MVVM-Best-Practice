@@ -18,7 +18,7 @@
         tools:ignore="AllowBackup,GoogleAppIndexingWarning,UnusedAttribute">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.cash.profin.ya.dinero.plata.credit.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,10 +27,10 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".ui.widget.PlayerService" />
+        <service android:name="com.cash.profin.ya.dinero.plata.credit.com.cash.profin.ya.dinero.plata.puremusic.ui.widget.PlayerService" />
 
         <receiver
-            android:name=".domain.message.PlayerReceiver"
+            android:name="com.cash.profin.ya.dinero.plata.credit.com.cash.profin.ya.dinero.plata.puremusic.domain.message.PlayerReceiver"
             android:exported="false"
             tools:ignore="ExportedReceiver">
             <intent-filter>
